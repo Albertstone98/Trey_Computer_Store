@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1748476642 source:d:\proyectos codeblocks\trey computer store\main.cpp
+	<iostream>
+	"funciones.h"
+
+1748476398 d:\proyectos codeblocks\trey computer store\funciones.h
+	<string>
+
+1748477182 source:d:\proyectos codeblocks\trey computer store\funciones.cpp
+	<iostream>
+	"funciones.h"
+
